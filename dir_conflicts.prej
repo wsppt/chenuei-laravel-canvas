@@ -1,0 +1,8 @@
+试图增加新属性 “svn:ignore”，但是它已经存在。
+<<<<<<< (��������ֵ)
+node_modules
+||||||| (incoming 'changed from' value)
+=======
+.env
+.env.example
+>>>>>>> (incoming 'changed to' value)

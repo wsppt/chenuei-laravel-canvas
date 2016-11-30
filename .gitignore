@@ -1,15 +1,18 @@
-vendor/
-node_modules/
+/vendor
+/node_modules
+/storage/*.index
+/public/storage
+/report
 
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+Thumbs.db
+composer.lock
+Homestead.yaml
+Homestead.json
+phpunit.xml
 
-# Laravel 5 & Lumen specific
-bootstrap/cache/
-.env.*.php
-.env.php
 .env
-
-# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
-.rocketeer/
+.idea
+.project
+.DS_Store
+*.map
+npm-debug.log
